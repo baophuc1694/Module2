@@ -2,7 +2,8 @@ package introductionJava.thuchanh;
 
 import java.util.Scanner;
 
-public class tinhngaytrongthang {
+public class
+tinhngaytrongthang {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         System.out.println(" Nhập tháng ");
