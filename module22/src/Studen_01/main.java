@@ -6,6 +6,7 @@ import java.util.*;
 public class main {
     private static List<Student> lists;
 
+
     public static void main(String[] args) {
         Student student = new Student("Quoc", 30, "DN");
         Student student1 = new Student("Toan", 26, "QN");

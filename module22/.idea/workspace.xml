@@ -1,7 +1,58 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7149bf6e-cb7e-4499-8960-6fbf8188d167" name="Default Changelist" comment="" />
+    <list default="true" id="7149bf6e-cb7e-4499-8960-6fbf8188d167" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Array/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ArrayExample/ArrayExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Array_01/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BinarySearch/BinarySearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BkitEmployee/BkitEmployee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BubbleSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BubbleSortByStep.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CalculationExample/CalculationExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CollectionsDemo/CollectionsDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Employee/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Employee_01/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercise/Exercise.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/IllegalTriangleException_01/IllegalTriangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/IllegalTriangleException_01/Triangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/People.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/People_01/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/People_01/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/People_01/People.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/People_02/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/People_02/People.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/People_1/Doctor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/People_1/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/People_1/People.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/People_1/Teacher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SelectionSort/SelectionSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SetDemo/SetDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Studen_02/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Student_03/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tree/AbstractTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tree/BST.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tree/TestBST.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tree/TreeNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Vehicle/Bike.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Vehicle/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Vehicle/Moto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Vehicle/Vehicle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Vehicle_1/Bike.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Vehicle_1/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Vehicle_1/Moto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Vehicle_1/Vehicle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/introductionJava/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/phuctapcuathuattoan/AlgorithmComplexityTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/module2/introductionJava/thuchanh/phuonggtrinh.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/module2/introductionJava/thuchanh/stopwatch.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/module2/introductionJava/thuchanh/tinhngaytrongthang.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/module2/introductionJava/thuchanh/tinhngaytrongthang.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/module2/main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/module2/main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Studen_01/main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Studen_01/main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main.java" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,11 +69,19 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="ProjectId" id="1cn7ACjeHAnXbOrxofu9WgQv6AI" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../thuchanh0202" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Background" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -36,13 +95,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.XoaPhanTu">
-    <configuration name="XoaPhanTu" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="introductionJava.baitap.XoaPhanTu" />
+  <component name="RunManager" selected="Application.Triangle">
+    <configuration name="ArrayExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ArrayExample.ArrayExample" />
       <module name="module2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="introductionJava.baitap.*" />
+          <option name="PATTERN" value="ArrayExample.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -50,12 +109,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="chuyendoinhietdo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="introductionJava.thuchanh.chuyendoinhietdo" />
+    <configuration name="CalculationExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CalculationExample.CalculationExample" />
       <module name="module2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="introductionJava.thuchanh.*" />
+          <option name="PATTERN" value="CalculationExample.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -63,12 +122,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="giatrinhonhat" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="introductionJava.thuchanh.giatrinhonhat" />
+    <configuration name="IllegalTriangleException" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="IllegalTriangleException.IllegalTriangleException" />
       <module name="module2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="introductionJava.thuchanh.*" />
+          <option name="PATTERN" value="IllegalTriangleException.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -76,19 +135,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="khaibaobien" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="khaibaobien" />
+    <configuration name="SetDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SetDemo.SetDemo" />
       <module name="module2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="SetDemo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="soluongsinhvien" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="introductionJava.thuchanh.soluongsinhvien" />
+    <configuration name="Triangle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="IllegalTriangleException_01.Triangle" />
       <module name="module2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="introductionJava.thuchanh.*" />
+          <option name="PATTERN" value="IllegalTriangleException_01.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -98,11 +163,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.XoaPhanTu" />
-        <item itemvalue="Application.soluongsinhvien" />
-        <item itemvalue="Application.chuyendoinhietdo" />
-        <item itemvalue="Application.giatrinhonhat" />
-        <item itemvalue="Application.khaibaobien" />
+        <item itemvalue="Application.Triangle" />
+        <item itemvalue="Application.IllegalTriangleException" />
+        <item itemvalue="Application.CalculationExample" />
+        <item itemvalue="Application.ArrayExample" />
+        <item itemvalue="Application.SetDemo" />
       </list>
     </recent_temporary>
   </component>
@@ -118,5 +183,18 @@
       <updated>1591152357058</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
